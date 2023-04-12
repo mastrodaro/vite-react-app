@@ -1,8 +1,9 @@
 # Complete react project scaffolding
 
-- vite
+- [Vite](https://vitejs.dev/)
   - react
   - typescript
+- [EditorConfig](https://editorconfig.org/)
 
 Project bootstrapped with Vite
 
