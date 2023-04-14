@@ -3,6 +3,8 @@
 - [Vite](https://vitejs.dev/)
   - [react](https://react.dev/)
   - [typescript](https://www.typescriptlang.org/)
+- Vite config
+  - alias @ to src/
 - [EditorConfig](https://editorconfig.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
@@ -21,6 +23,8 @@ npm create vite@latest vite-react-app -- --template react-ts
   - @vitejs/plugin-react
   - typescript
   - vite
+- Vite config
+  - @types/node
 - ESLint
   - [eslint](https://www.npmjs.com/package/eslint)
   - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
