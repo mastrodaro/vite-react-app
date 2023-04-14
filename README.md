@@ -8,6 +8,9 @@
 - [EditorConfig](https://editorconfig.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- Git hooks
+  - [husky](https://typicode.github.io/husky/#/)
+  - [commitlint](https://commitlint.js.org/#/)
 
 Project bootstrapped with Vite
 
@@ -35,3 +38,7 @@ npm create vite@latest vite-react-app -- --template react-ts
   - [prettier](https://www.npmjs.com/package/prettier)
   - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
   - [eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier)
+- Git hooks
+  - [husky](https://www.npmjs.com/package/husky)
+  - [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)
+  - [@commitlint/config-conventional](https://www.npmjs.com/package/@commitlint/config-conventional)
