@@ -11,6 +11,7 @@
 - Git hooks
   - [husky](https://typicode.github.io/husky/#/)
   - [commitlint](https://commitlint.js.org/#/)
+- [Sass](https://sass-lang.com/)
 
 Project bootstrapped with Vite
 
@@ -42,3 +43,5 @@ npm create vite@latest vite-react-app -- --template react-ts
   - [husky](https://www.npmjs.com/package/husky)
   - [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)
   - [@commitlint/config-conventional](https://www.npmjs.com/package/@commitlint/config-conventional)
+- Sass
+  - [sass](https://www.npmjs.com/package/sass)
