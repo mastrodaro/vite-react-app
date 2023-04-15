@@ -1,5 +1,19 @@
 # Complete react project scaffolding
 
+### Installation
+
+```shell
+npx degit mastrodaro/vite-react-app <your-app-name>
+```
+
+### Contents
+
+Project bootstrapped with Vite
+
+```shell
+npm create vite@latest vite-react-app -- --template react-ts
+```
+
 - [Vite](https://vitejs.dev/)
   - [react](https://react.dev/)
   - [typescript](https://www.typescriptlang.org/)
@@ -13,12 +27,6 @@
   - [commitlint](https://commitlint.js.org/#/)
 - [Sass](https://sass-lang.com/)
 
-Project bootstrapped with Vite
-
-```shell
-npm create vite@latest vite-react-app -- --template react-ts
-```
-
 ## devDependencies history
 
 - Vite
@@ -29,6 +37,9 @@ npm create vite@latest vite-react-app -- --template react-ts
   - vite
 - Vite config
   - @types/node
+- Vite plugins
+  - [vite-plugin-svgr](https://www.npmjs.com/package/vite-plugin-svgr) (import svg as react component)
+  - [rollup-plugin-visualizer](https://www.npmjs.com/package/rollup-plugin-visualizer) (bundle visualizer)
 - ESLint
   - [eslint](https://www.npmjs.com/package/eslint)
   - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)

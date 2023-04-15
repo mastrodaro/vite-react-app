@@ -1,5 +1,11 @@
 module.exports = {
   trailingComma: "all",
-  importOrder: ["^react(.*)", "<THIRD_PARTY_MODULES>", "@/(.*)", "^[./]"],
+  importOrder: [
+    "^react(.*)",
+    "^vite$",
+    "<THIRD_PARTY_MODULES>",
+    "@/(.*)",
+    "^[./]",
+  ],
   importOrderSortSpecifiers: true,
 };
