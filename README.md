@@ -39,6 +39,7 @@ npm create vite@latest vite-react-app -- --template react-ts
   - [prettier](https://www.npmjs.com/package/prettier)
   - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
   - [eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier)
+  - [@trivago/prettier-plugin-sort-imports](https://www.npmjs.com/package/@trivago/prettier-plugin-sort-imports)
 - Git hooks
   - [husky](https://www.npmjs.com/package/husky)
   - [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)
