@@ -26,6 +26,8 @@ npm create vite@latest vite-react-app -- --template react-ts
   - [husky](https://typicode.github.io/husky/#/)
   - [commitlint](https://commitlint.js.org/#/)
 - [Sass](https://sass-lang.com/)
+- [React Router](https://reactrouter.com/en/main)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
 
 ## devDependencies history
 
@@ -40,6 +42,7 @@ npm create vite@latest vite-react-app -- --template react-ts
 - Vite plugins
   - [vite-plugin-svgr](https://www.npmjs.com/package/vite-plugin-svgr) (import svg as react component)
   - [rollup-plugin-visualizer](https://www.npmjs.com/package/rollup-plugin-visualizer) (bundle visualizer)
+  - [vite-plugin-checker](https://www.npmjs.com/package/vite-plugin-checker) (show errors in terminal)
 - ESLint
   - [eslint](https://www.npmjs.com/package/eslint)
   - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
@@ -57,3 +60,8 @@ npm create vite@latest vite-react-app -- --template react-ts
   - [@commitlint/config-conventional](https://www.npmjs.com/package/@commitlint/config-conventional)
 - Sass
   - [sass](https://www.npmjs.com/package/sass)
+- React Router
+  - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+- Redux Toolkit
+  - [@reduxjs/toolkit](https://www.npmjs.com/package/@reduxjs/toolkit)
+  - [react-redux](https://www.npmjs.com/package/react-redux)
